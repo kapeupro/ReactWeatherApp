@@ -1,5 +1,5 @@
 # ReactWeatherApp
-Mon application météo
+
 Mon application météo est une application web qui permet aux utilisateurs de connaître les prévisions météorologiques pour une ville donnée. L'application utilise les données météorologiques fournies par une API externe pour afficher les informations en temps réel.
 
 ## Installation
